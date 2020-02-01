@@ -4,7 +4,7 @@
     id          = "com.tvojsajt.digitron"
     versionCode = "10"
     version     = "1.0.0" >
-
+    android-activityName="Digitron"
 
 
   <name>Digitron</name>
