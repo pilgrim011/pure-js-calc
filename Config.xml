@@ -4,13 +4,14 @@
     id          = "com.tvojsajt.digitron"
     versionCode = "10"
     version     = "1.0.0" >
-    android-activityName="Digitron"
+    android-packageName = "Digitron"
+    android-activityName = "Digitron"
 
 
   <name>Digitron</name>
 
   <description>
-      Simple JavaScript calculator, with a bit of HTML, CSS and Bootstrap.
+      Simple calculator
   </description>
 
   <author href="https://github.com/pilgrim011/" email="zoranstanic011@gmail.com">
